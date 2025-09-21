@@ -1,10 +1,18 @@
 <h1 align="center">Vibhasha Nagvekar</h1>
 
 <h2 align="center">Socials:</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/vibhasha-nagvekar-466683284">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nagvekarvibha04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-resume-link.com">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhasha-nagvekar-466683284)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagvekarvibha04@gmail.com)  
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ePKWXylKTFUz7MuEYB5IqR8m3ZXTAxDx/view?usp=drive_link)
 
 <h2 align="center">Tech Stack:</h2>
 
